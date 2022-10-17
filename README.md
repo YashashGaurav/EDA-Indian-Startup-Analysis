@@ -1,10 +1,10 @@
-TLDR; EDA File -> `the_eda_notebook.ipynb`
-
 ## About The Project
 
 ![Sample Analysis Screen Shot](./assets/sample_analysis.png)
 
 Creating a startup is a challenging and exciting endevour. There is so little time to do things that you want to maximize on every step. Especially funding. So we wanted to look at the stature of funding startups in our Home Country: India, and see how it can help an entrepreneure or a VC Fund manager to interact with the market in a more informed manner.
+
+TLDR; EDA File -> `the_eda_notebook.ipynb` :) 
 
 ## Dataset
 
