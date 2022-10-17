@@ -2,7 +2,7 @@
 
 ![Sample Analysis Screen Shot](./assets/sample_analysis.png)
 
-Creating a startup is a challenging and exciting endevour. There is so little time to do things that you want to maximize on every step. Especially funding. So we wanted to look at the stature of funding startups in our Home Country: India, and see how it can help an entrepreneure or a VC Fund manager to interact with the market in a more informed manner.
+Creating a startup is a challenging and exciting endeavor. There is so little time to do things that you want to maximize every step. Especially funding. So we wanted to look at the stature of funding startups in our Home Country: India, and see how it can help an entrepreneur or a VC Fund manager to interact with the market in a more informed manner.
 
 TLDR; EDA File -> `the_eda_notebook.ipynb` :) 
 
@@ -13,7 +13,7 @@ We source our data from 2 Kaggle datasets:
 2. [Indian Startups In 2021 - Kaggle](https://www.kaggle.com/datasets/ramjasmaurya/indian-startupsin-2021) - 
 The dataset contains datapoints about fundings that various startup in India received for the year 2021. This year about one thousand successful startup fundings that took place. All the data for this one year is combined into one file that can be loaded onto pandas directly for analysis.
 
-For maps related datafile we use shapefiles as provided openly here: https://github.com/Princenihith/Maps_with_python
+For maps related data file we use shape-files as provided openly here: https://github.com/Princenihith/Maps_with_python
 
 For city to state mapping we use openly available JSON data here: https://github.com/nshntarora/Indian-Cities-JSON/blob/master/cities.json which we further add to to need our purpose and can be found in our repo ./dataset/cities.json (we have raised a pull request to the author with our additions but the repo seems to be inactive so pasting a copy here for our purposes)
 
