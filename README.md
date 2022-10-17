@@ -1,3 +1,5 @@
+TLDR; EDA File -> `the_eda_notebook.ipynb`
+
 ## About The Project
 
 ![Sample Analysis Screen Shot](./assets/sample_analysis.png)
