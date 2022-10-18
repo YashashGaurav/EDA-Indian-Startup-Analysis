@@ -46,6 +46,10 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## Video Explainer!
+
+[![IMAGE ALT TEXT HERE](./assets/YT%20Thuumbnail.png)](https://youtu.be/n-omO5mY6kY)
+
 ## Current Owners:
 
 Yashash Gaurav - [Twitter](https://twitter.com/yashashgaurav) | [LinkedIn](https://www.linkedin.com/in/yashashgaurav/)\
